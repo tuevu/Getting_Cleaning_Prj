@@ -21,7 +21,7 @@
 * Create new data set using write.table
 ==================================================================
 
-# "seconddata.csv": is  the output from analysis file
+# "seconddata.txt": is  the output from analysis file
 
 * The file contains mean and standard deviation from activities using Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration and Triaxial Angular velocity from the gyroscope. 
 
